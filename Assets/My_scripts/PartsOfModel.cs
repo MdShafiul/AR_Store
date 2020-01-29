@@ -19,8 +19,6 @@ public class PartsOfModel : MonoBehaviour
     void Start()
     {
 
-        wheelBar.SetActive(false);
-
     }
 
     // Update is called once per frame

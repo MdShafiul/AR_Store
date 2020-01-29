@@ -49,6 +49,8 @@ public class AR_buttons : MonoBehaviour, IVirtualButtonEventHandler
 
         warningToast.SetActive(false);
 
+        // SetActive(false) all info bars
+
         if (infoBarsSimulaBike.Length > 0)
         {
             foreach (GameObject infoBar in infoBarsSimulaBike)
@@ -65,9 +67,9 @@ public class AR_buttons : MonoBehaviour, IVirtualButtonEventHandler
             }
         }
 
-        if (infoBarsSimulaBike.Length > 0)
+        if (infoBarsFormula1.Length > 0)
         {
-            foreach (GameObject infoBar in infoBarsSimulaBike)
+            foreach (GameObject infoBar in infoBarsFormula1)
             {
                 infoBar.SetActive(false);
             }
