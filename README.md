@@ -12,9 +12,9 @@ E-commerce application with AR( Augmented Reality ) feature
  Product list in menu
 
 ![Opening](Screenshots/0opening.png)
- to see product list click on top-right corner button
+ to see product list click on __top-right__ corner button
 
- 3D view of Product
+ __3D view__ of Product
 
 ![Opening](Screenshots/Screenshot_20200129-223520.png)
 
