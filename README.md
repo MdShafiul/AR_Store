@@ -16,28 +16,28 @@ E-commerce application with AR( Augmented Reality ) feature
 
  __3D view__ of Product
 
-![Opening](Screenshots/Screenshot_20200129-223520.png)
+![3Dview](Screenshots/Screenshot_20200129-223520.png)
 
-![Opening](Screenshots/Screenshot_20200129-223727.png)
+![3Dview](Screenshots/Screenshot_20200129-223727.png)
 
  __Info button__ to show / hide information bars
 
-![Opening](Screenshots/Screenshot_2020-01-30-17-20-31.jpg)
+![info](Screenshots/Screenshot_2020-01-30-17-20-31.jpg)
 
  __Information bars__
 
-![Opening](Screenshots/Screenshot_20200129-223804.png)
+![information](Screenshots/Screenshot_20200129-223804.png)
 
-![Opening](Screenshots/Screenshot_20200129-223554.png)
+![information](Screenshots/Screenshot_20200129-223554.png)
 
  __Buy__ button
 
-![Opening](Screenshots/Screenshot_2020-01-30-17-20-52.jpg)
+![buy](Screenshots/Screenshot_2020-01-30-17-20-52.jpg)
 
  Overall __cost__
 
-![Opening](Screenshots/Screenshot_20200130-000556.png)
+![cost](Screenshots/Screenshot_20200130-000556.png)
 
  Customer information form
 
-![Opening](Screenshots/Screenshot_20200130-001139.png)
+![customer_detail](Screenshots/Screenshot_20200130-001139.png)
