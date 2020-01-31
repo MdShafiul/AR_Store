@@ -41,3 +41,6 @@ E-commerce application with AR( Augmented Reality ) feature
  Customer information form
 
 ![customer_detail](Screenshots/Screenshot_20200130-001139.png)
+
+## Order list:
+ Order list will be displayed in this[*https://github.com/MdShafiul/AR_Store-Order-list-*] app.
